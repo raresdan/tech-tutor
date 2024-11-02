@@ -21,7 +21,7 @@ To get started with the Tutorial Management Application, follow these steps:
 3. Build and run the application.
 
 ## Usage
-1.Launch the Application: Open the application to access the user interface.
-2.Explore Tutorials: In user mode, browse the comprehensive list of tutorials available.
-3.Create a Watch List: Select tutorials to create and manage your personalized watch list.
-4.Export Your Watch List: Use the export feature to save your watch list in CSV or HTML format for future reference.
+1. Launch the Application: Open the application to access the user interface.
+2. Explore Tutorials: In user mode, browse the comprehensive list of tutorials available.
+3. Create a Watch List: Select tutorials to create and manage your personalized watch list.
+4. Export Your Watch List: Use the export feature to save your watch list in CSV or HTML format for future reference.
